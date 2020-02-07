@@ -1,0 +1,32 @@
+/* Background Colors */
+.bg-header {
+	/*background-color: #63707e;*/
+	background: linear-gradient(#63707e, #8e9cab);
+}
+
+.bg-section-header {
+	/*background-color: #93b5b3;*/
+	background: radial-gradient(#a6bfbe, #93b5b3);
+}
+
+header h1 {
+	text-shadow: 3px 0px 10px black;
+}
+
+a {
+	-webkit-transition: color 0.7s; /* Safari */
+	transition: color 0.7s;
+}
+
+a:hover {
+	color: #CCCCCC;
+}
+
+
+p {
+	margin-bottom: 25px;
+}
+
+.items-list > li {
+	margin: 30px 50px;
+}
